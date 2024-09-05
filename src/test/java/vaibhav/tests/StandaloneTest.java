@@ -26,6 +26,8 @@ import vaibhav.pageobjects.ProductCatalog;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class StandaloneTest extends BaseTest {
+
+	// This is added to CICD.
 	
 	//String productName = "IPHONE 13 PRO";
 			String expectedMsg = "THANKYOU FOR THE ORDER.";
